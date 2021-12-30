@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:id="@+id/navig"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/nav_appointment"
+            android:icon="@drawable/ic_baseline_calendar_today_24"
+            android:title="@string/menu_appointment" />
+        <item
+            android:id="@+id/nav_stat"
+            android:icon="@drawable/ic_baseline_search_24"
+            android:title="@string/menu_stat" />
+        <item
+            android:id="@+id/nav_qa"
+            android:icon="@drawable/ic_baseline_help_24"
+            android:title="@string/menu_qa" />
+    </group>
+</menu>

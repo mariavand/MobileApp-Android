@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "862629361251",
+    "firebase_url": "https://mobileapp-aaca8-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mobileapp-aaca8",
+    "storage_bucket": "mobileapp-aaca8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862629361251:android:34595bc0bf1257c54b6a56",
+        "android_client_info": {
+          "package_name": "com.example.mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862629361251-6b38ui74ajgd9hht713ad0i3jnn7alcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXWhJ8i3xIdSgkV5H8UXlPxdlQtQpTV1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862629361251-6b38ui74ajgd9hht713ad0i3jnn7alcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

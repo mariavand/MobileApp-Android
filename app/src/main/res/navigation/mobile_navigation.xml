@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.mobile_app.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/gallery_full"
+        android:name="com.example.mobile_app.ui.gallery.GalleryFullScreen"
+        tools:layout="@layout/fullscreen" >
+
+        <action
+            android:id="@+id/action_togrid"
+            app:destination="@id/nav_gallery" />
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.mobile_app.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" >
+
+        <action
+            android:id="@+id/action_full"
+            app:destination="@id/gallery_full" />
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_appointment"
+        android:name="com.example.mobile_app.ui.vaccination.AppointmentFragment"
+        android:label="@string/menu_appointment"
+        tools:layout="@layout/fragment_appontment">
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_stat"
+        android:name="com.example.mobile_app.ui.stat.StatFragment"
+        android:label="@string/menu_stat"
+        tools:layout="@layout/fragment_stat" />
+    <fragment
+        android:id="@+id/nav_qa"
+        android:name="com.example.mobile_app.ui.qa.QaFragment"
+        android:label="@string/menu_qa"
+        tools:layout="@layout/fragment_qa" />
+</navigation>

@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Mobile_App</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title">National Vaccination Agency</string>
+    <string name="nav_header_subtitle" translatable="false">mariamasha.vandoulaki@gmail.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="covidpic" translatable="false">Covid-related Picture</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Pictures &amp; Videos</string>
+    <string name="menu_appointment">Vaccination appointment</string>
+    <string name="menu_stat">Statistics</string>
+    <string name="menu_qa">Questions</string>
+
+    <string name="general">The application of the National Organization of Public Health (EODY), was created to facilitate information to citizens and can be used to book your appointment for vaccination.
+    </string>
+    <string name="picvid">Pictures &amp; Videos</string>
+
+    <string name="from">Date From</string>
+    <string name="to">Date To</string>
+    <string name="emvolio">Vaccinations:</string>
+    <string name="emvolioa">A-dose Vaccination:</string>
+    <string name="emvoliob">B-dose Vaccination:</string>
+    <string name="sunemvolio">Total Vaccinations:</string>
+    <string name="search">Search</string>
+
+    <string name="datehint">Date: 2021-12-31</string>
+
+    <string name="namehint">Name</string>
+    <string name="surnamehint">Surname</string>
+    <string name="amkahint">AMKA</string>
+    <string name="telhint">Telephone</string>
+    <string name="emailhint">E-mail</string>
+    <string name="timehint">Time: 18:00</string>
+
+    <string name="btnadd">Add new appointment</string>
+    <string name="btnedit">Edit my appointment</string>
+    <string name="btndelete">Delete my appointment</string>
+    <string name="btnread">Show my appointment</string>
+
+    <string name="btnsub">Submit</string>
+    <string name="del">Delete</string>
+
+    <string name="warning">Are you sure that you want to delete your appointment?</string>
+</resources>

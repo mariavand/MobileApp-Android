@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mobile_App</string>
+    <string name="nav_header_title">Εθνικός Οργανισμός Εμβολιασμού</string>
+    <string name="menu_home">Αρχική</string>
+    <string name="menu_gallery">Εικόνες &amp; Βίντεο</string>
+    <string name="menu_appointment">Ραντεβού για Εμβολιασμό</string>
+    <string name="menu_stat">Στατιστικά</string>
+    <string name="menu_qa">Συχνές Ερωτήσεις</string>
+    <string name="general">Η εφαρμογή Εθνικόυ Οργανισμόυ Δημόσιας Υγείας (ΕΟΔΥ), δημιουργήθηκε για την διευκόλυνση ενημέρωσης πολητών και μπορεί να χρησιμοποιηθεί για να κλείσετε το ραντεβού σας για εμβολιασμό.</string>
+    <string name="picvid">Εικόνες &amp; Βίντεο</string>
+    <string name="from">Από</string>
+    <string name="to">Έως</string>
+    <string name="emvolio">Εμβόλια</string>
+    <string name="emvolioa">Εμβόλια α-δόση</string>
+    <string name="emvoliob">Εμβόλια β-δόση</string>
+    <string name="sunemvolio">Συνολικοί Εμβολιασμοί</string>
+    <string name="search">Αναζήτηση</string>
+    <string name="datehint">Ημερ. 2021-12-31</string>
+    <string name="namehint">Όνομα</string>
+    <string name="surnamehint">Επώνυμο</string>
+    <string name="amkahint">ΑΜΚΑ</string>
+    <string name="telhint">Τηλέφωνο</string>
+    <string name="emailhint">Ηλεκτρονική διεύθυνση</string>
+    <string name="timehint">Ώρα: 18:00</string>
+    <string name="btnadd">Προσθήκη νέου ραντεβού</string>
+    <string name="btnedit">Επεξεργασία ραντεβού</string>
+    <string name="btndelete">Διαγραφή του ραντεβού</string>
+    <string name="btnread">Προβολή του ραντεβού</string>
+    <string name="btnsub">Υποβολή</string>
+    <string name="del">Διαγραφή</string>
+    <string name="warning">Σίγουρα θέλεται να το διαγράψεται;</string>
+</resources>
